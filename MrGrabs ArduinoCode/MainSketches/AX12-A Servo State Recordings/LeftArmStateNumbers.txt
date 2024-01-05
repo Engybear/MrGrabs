@@ -1,0 +1,77 @@
+States represent positions of the arm, made up of 7 AX12-A servos. 
+At these positions each servo will be at its own unique position which is stored in memory on the servo. 
+One can move the arm around into desirable positions and then read the position value of all servos at their specific memory addresses.
+For more information on how to do this, refer to MrGrabs Construction Guide, 'AX12-A Smart Robotic Arm'
+
+State 1
+
+[ID:001] PresPos:501
+[ID:002] PresPos:112
+[ID:003] PresPos:914
+[ID:004] PresPos:813
+[ID:005] PresPos:219
+[ID:006] PresPos:232
+[ID:007] PresPos:547
+
+State 2
+
+[ID:001] PresPos:507
+[ID:002] PresPos:379
+[ID:003] PresPos:644
+[ID:004] PresPos:827
+[ID:005] PresPos:206
+[ID:006] PresPos:212
+[ID:007] PresPos:547
+
+State 3
+
+[ID:001] PresPos:501
+[ID:002] PresPos:346
+[ID:003] PresPos:679
+[ID:004] PresPos:701
+[ID:005] PresPos:331
+[ID:006] PresPos:186
+[ID:007] PresPos:547
+
+State 4
+
+[ID:001] PresPos:880
+[ID:002] PresPos:305
+[ID:003] PresPos:718
+[ID:004] PresPos:701
+[ID:005] PresPos:331
+[ID:006] PresPos:185
+[ID:007] PresPos:547
+
+State 5
+
+[ID:001] PresPos:512
+[ID:002] PresPos:341
+[ID:003] PresPos:683
+[ID:004] PresPos:521
+[ID:005] PresPos:508
+[ID:006] PresPos:521
+[ID:007] PresPos:547
+
+State 6
+
+[ID:001] PresPos:505
+[ID:002] PresPos:333
+[ID:003] PresPos:688
+[ID:004] PresPos:690
+[ID:005] PresPos:342
+[ID:006] PresPos:525
+[ID:007] PresPos:547
+
+State 7
+
+[ID:001] PresPos:511
+[ID:002] PresPos:330
+[ID:003] PresPos:693
+[ID:004] PresPos:392
+[ID:005] PresPos:636
+[ID:006] PresPos:525
+[ID:007] PresPos:548
+
+
+
