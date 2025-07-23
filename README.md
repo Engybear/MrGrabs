@@ -1,4 +1,11 @@
 # MrGrabs
+<div align = "center"> 
+  
+![MrGrabs_Logo.png](MrGrabs_Logo.png)
+
+</div>
+- project description coming soon
+
 ### MrGrabs is a medium-sized (16x16x20'') robot, created for the purposes of pushing the limits of 3D printing in robotics.
 
 Refer to User Guide for setup and usage information
