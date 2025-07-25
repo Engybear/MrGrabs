@@ -25,8 +25,8 @@ As a secondary objective during construction, the approach of pushing the limits
 MrGrabs is a medium-sized (16x16x20'') robot, capable of driving through doors with at lest 2' of clearance. It is built primarily out of PLA, with plexiglass and wood used to reinforce the chassis. The robot is controlled via a custom bluetooth APP on an Andriod phone, and integrated with a Microsoft Surface Pro running an application of another project to scan for, greet and wave to students on campus. It also has four HC-SR04 Ultrasonic Sensors that are unused but intended to be a safety feature to prevent collisions.
 
 <div align="center">
-  <img src="MrGrabs%20Pics/IMG_2423.JPG" style="transform: rotate(180deg); width: 640px;" />
-  <img src="MrGrabs%20Pics/IMG_2418.JPG" style="transform: rotate(180deg); width: 360px;" />
+  <img src="MrGrabs%20Pics/IMG_2423.JPG" style="transform: rotate(180deg); width: 450px;" />
+  <img src="MrGrabs%20Pics/IMG_2418.JPG" style="transform: rotate(180deg); width: 253px;" />
 </div>
 
 ### Design Breakdown
